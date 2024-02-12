@@ -8,7 +8,7 @@ Code for an Icecream Shop's REST API, containing some example vulnerabilities.
 
 Follow steps 1-3 to get started.
 
-#### Step 1
+#### Step 1 of the process
 
 ```c#
 dotnet restore
